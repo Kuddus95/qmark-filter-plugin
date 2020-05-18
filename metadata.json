@@ -1,0 +1,10 @@
+{
+	"name": "Qmark Filter Plugin",
+	"description": "Add a question mark at the end of the question title if not present.",
+	"version": "1.0",
+	"date": "2020-04-18",
+	"author": "Aman",
+	"author_uri": "https://ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
